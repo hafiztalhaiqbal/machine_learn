@@ -1,0 +1,14 @@
+streamlit
+pillow
+matplotlib
+plotly
+pickle-mixin
+numpy
+pandas
+python-math
+scikit-learn
+xgboost
+times
+seaborn
+cufflinks
+pytest-warnings
